@@ -89,6 +89,6 @@ A plataforma provê uma camada de abstração via APIs para aplicativos clientes
 
 ---
 
-## Diagramas de Arquitetura
-
+## Diagrama de Arquitetura
+<img src="assets/high_level_diagram.png" alt="HLD">
 
